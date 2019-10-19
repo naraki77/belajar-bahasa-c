@@ -1,0 +1,4 @@
+belajar-bahasa-c
+-konsisten untuk belajar intensif
+-membuat platform untuk pengelolaan pembelajaran
+-membentuk team
